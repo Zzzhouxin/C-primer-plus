@@ -1,4 +1,4 @@
-﻿// Ex.3.6.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
+﻿// Ex3.6.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 
 #include <iostream>
@@ -8,7 +8,7 @@ int main()
 	using namespace std;
 	char ch = 'M';
 	int i = ch;
-	
+
 	cout << "The ASCII code for " << ch << " is " << i << endl;
 	cout << "Add one to the character code: " << endl;
 	ch += 1;

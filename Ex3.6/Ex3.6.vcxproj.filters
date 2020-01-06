@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ex.3.6.cpp">
+    <ClCompile Include="Ex3.6.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
